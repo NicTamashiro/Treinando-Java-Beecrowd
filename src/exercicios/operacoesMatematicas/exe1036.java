@@ -1,3 +1,5 @@
+package exercicios.operacoesMatematicas;
+
 import java.util.Scanner;
 
 public class exe1036 {
