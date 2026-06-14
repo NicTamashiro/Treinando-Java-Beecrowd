@@ -29,7 +29,7 @@ src/
 
 | Categoria           | Exercícios resolvidos |
 |---------------------|-----------------------|
-| Introdução          | 0                     |
+| Introdução          | 8                     |
 | Condicionais        | 0                     |
 | Loops               | 0                     |
 | Strings             | 0                     |
