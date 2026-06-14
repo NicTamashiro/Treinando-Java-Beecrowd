@@ -30,7 +30,7 @@ src/
 | Categoria           | Exercícios resolvidos |
 |---------------------|-----------------------|
 | Introdução          | 8                     |
-| Condicionais        | 0                     |
+| Condicionais        | 11                    |
 | Loops               | 0                     |
 | Strings             | 0                     |
 | Vetores             | 0                     |
