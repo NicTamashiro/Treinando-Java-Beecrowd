@@ -31,7 +31,7 @@ src/
 |---------------------|-----------------------|
 | Introdução          | 8                     |
 | Condicionais        | 11                    |
-| Loops               | 0                     |
+| Loops               | 12                    |
 | Strings             | 0                     |
 | Vetores             | 0                     |
 | Matrizes            | 0                     |
