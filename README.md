@@ -33,7 +33,7 @@ src/
 | Condicionais        | 11                    |
 | Loops               | 12                    |
 | Strings             | 0                     |
-| Vetores             | 0                     |
+| Vetores             | 9                     |
 | Matrizes            | 0                     |
  
 ---
