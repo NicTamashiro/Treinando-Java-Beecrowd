@@ -32,9 +32,9 @@ src/
 | Introdução          | 8                     |
 | Condicionais        | 11                    |
 | Loops               | 12                    |
-| Strings             | 0                     |
+| Strings             | 7                     |
 | Vetores             | 9                     |
-| Matrizes            | 0                     |
+| Matrizes            | 6                     |
  
 ---
 
